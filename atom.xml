@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yoxyue.github.io</id>
     <title>我是Yox</title>
-    <updated>2020-04-04T17:45:06.584Z</updated>
+    <updated>2020-04-04T17:46:12.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yoxyue.github.io"/>
     <link rel="self" href="https://yoxyue.github.io/atom.xml"/>
@@ -16,8 +16,10 @@
         <link href="https://yoxyue.github.io/post/my2019/">
         </link>
         <updated>2019-12-31T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://yoxyue.github.io/post-images/1586022129116.jpg" alt="" loading="lazy"></figure>
-<p>转瞬间2020已至，在此回顾一下我的2019。</p>
+        <summary type="html"><![CDATA[<p>转瞬间2020已至，在此回顾一下我的2019。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>转瞬间2020已至，在此回顾一下我的2019。</p>
+<!-- more -->
 <h3 id="面对生死时一切都不值一提">面对生死时，一切都不值一提</h3>
 <p>小月亮出生的第31天，家父脑梗入院，刚开始情况不明，任何情况都有可能发生。在那段时间里一个80后独生子女的短板完全的暴露了出来。有老有小有工作，没钱没人没时间。我发现什么甲方、什么进度，都无所谓，一直小心翼翼维护着的「体面」更不值一提，除了「求生」一切都不值一提。</p>
 <h3 id="养孩子很累我不想让他成龙成凤">养孩子很累，我不想让他成龙成凤</h3>
