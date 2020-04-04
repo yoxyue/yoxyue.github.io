@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yoxyue.github.io</id>
     <title>我是Yox</title>
-    <updated>2020-04-04T17:35:21.412Z</updated>
+    <updated>2020-04-04T17:44:42.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yoxyue.github.io"/>
     <link rel="self" href="https://yoxyue.github.io/atom.xml"/>
@@ -11,35 +11,23 @@
     <icon>https://yoxyue.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 我是Yox</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://yoxyue.github.io/post/hello-gridea/</id>
-        <link href="https://yoxyue.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[我的2019]]></title>
+        <id>https://yoxyue.github.io/post/my2019/</id>
+        <link href="https://yoxyue.github.io/post/my2019/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2019-12-31T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://yoxyue.github.io/post-images/1586022129116.jpg" alt="" loading="lazy"></figure>
+<p>转瞬间2020已至，在此回顾一下我的2019。</p>
+<h3 id="面对生死时一切都不值一提">面对生死时，一切都不值一提</h3>
+<p>小月亮出生的第31天，家父脑梗入院，刚开始情况不明，任何情况都有可能发生。在那段时间里一个80后独生子女的短板完全的暴露了出来。有老有小有工作，没钱没人没时间。我发现什么甲方、什么进度，都无所谓，一直小心翼翼维护着的「体面」更不值一提，除了「求生」一切都不值一提。</p>
+<h3 id="养孩子很累我不想让他成龙成凤">养孩子很累，我不想让他成龙成凤</h3>
+<p>孩子有他自己的人生，选择什么样的路是他要为自己负责。我只希望他平安、开心就好。</p>
+<h3 id="坚持很难但我不想放弃">坚持很难但我不想放弃</h3>
+<p>2019年老婆对我说的最多的一句话是「都这样了，还能坏（差）到哪去。」是啊，都已经这样了还能咋样？吃不上饭的时候的坚持才是坚持，到底了才有的叫「转机」。</p>
+<h3 id="设备真棒或许可以再战两年">设备真棒，或许可以再战两年</h3>
+<p>物欲上的「克己」一直是主旋律。我一度痴迷于硬件和参数，却没有深入练习技术。用手中现有的设备完成想要的创作才是应该。践行「极简主义」仍是必须。</p>
+<h3 id="我焦虑的是中年危机">我焦虑的是中年危机</h3>
+<p>已经到了找不到工作的年纪了，考虑如何吃饱饭比考虑余生的价值更有意义。</p>
 ]]></content>
     </entry>
 </feed>
