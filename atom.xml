@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yoxyue.github.io</id>
     <title>我是Yox</title>
-    <updated>2020-04-06T17:15:45.060Z</updated>
+    <updated>2020-04-07T16:42:20.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yoxyue.github.io"/>
     <link rel="self" href="https://yoxyue.github.io/atom.xml"/>
@@ -25,6 +25,8 @@
 <a href="https://netflixcn.com/miji/46.html">https://netflixcn.com/miji/46.html</a><br>
 参考2：<br>
 <a href="https://zhuanlan.zhihu.com/p/112484256">https://zhuanlan.zhihu.com/p/112484256</a></p>
+<p><strong>20200407</strong></p>
+<p>已经完美运行在3B+上了。 参考<a href="https://passwallopenwrt.github.io/website/">https://passwallopenwrt.github.io/website/</a></p>
 ]]></content>
     </entry>
     <entry>
