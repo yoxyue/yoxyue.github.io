@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yoxyue.github.io</id>
     <title>我是Yox</title>
-    <updated>2020-04-07T16:42:20.369Z</updated>
+    <updated>2020-04-17T04:40:46.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yoxyue.github.io"/>
     <link rel="self" href="https://yoxyue.github.io/atom.xml"/>
@@ -26,7 +26,9 @@
 参考2：<br>
 <a href="https://zhuanlan.zhihu.com/p/112484256">https://zhuanlan.zhihu.com/p/112484256</a></p>
 <p><strong>20200407</strong></p>
-<p>已经完美运行在3B+上了。 参考<a href="https://passwallopenwrt.github.io/website/">https://passwallopenwrt.github.io/website/</a></p>
+<figure data-type="image" tabindex="1"><img src="https://yoxyue.github.io/post-images/1587098186678.png" alt="" loading="lazy"></figure>
+<p>已经完美运行在3B+上,截图时已经稳定运行了9天有余，比起老电脑，噪音和散热问题有很大的改善。<br>
+参考<a href="https://passwallopenwrt.github.io/website/">https://passwallopenwrt.github.io/website/</a></p>
 ]]></content>
     </entry>
     <entry>
