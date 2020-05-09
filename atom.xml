@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://yoxyue.github.io</id>
+    <id>https://blog.yoxyue.com</id>
     <title>我是Yox</title>
-    <updated>2020-05-09T18:05:41.558Z</updated>
+    <updated>2020-05-09T18:53:27.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://yoxyue.github.io"/>
-    <link rel="self" href="https://yoxyue.github.io/atom.xml"/>
+    <link rel="alternate" href="https://blog.yoxyue.com"/>
+    <link rel="self" href="https://blog.yoxyue.com/atom.xml"/>
     <subtitle>视频创作者 / 极简主义实践者</subtitle>
-    <logo>https://yoxyue.github.io/images/avatar.png</logo>
-    <icon>https://yoxyue.github.io/favicon.ico</icon>
+    <logo>https://blog.yoxyue.com/images/avatar.png</logo>
+    <icon>https://blog.yoxyue.com/favicon.ico</icon>
     <rights>All rights reserved 2020, 我是Yox</rights>
     <entry>
         <title type="html"><![CDATA[老旧笔记本变身旁路由]]></title>
-        <id>https://yoxyue.github.io/post/lao-jiu-bi-ji-ben-bian-shen-pang-lu-you/</id>
-        <link href="https://yoxyue.github.io/post/lao-jiu-bi-ji-ben-bian-shen-pang-lu-you/">
+        <id>https://blog.yoxyue.com/post/lao-jiu-bi-ji-ben-bian-shen-pang-lu-you/</id>
+        <link href="https://blog.yoxyue.com/post/lao-jiu-bi-ji-ben-bian-shen-pang-lu-you/">
         </link>
         <updated>2020-04-06T17:01:20.000Z</updated>
         <summary type="html"><![CDATA[<p>由于工作和个人习惯问题，家庭和工作环境严重依赖Google全家桶系列，之前是依靠newwifi3刷机后自带的功能，由于硬件限制峰值只能到30mb左右。前些日子断舍离时翻出了以前的一台老笔记本电脑，本着试试看的想法尝试一下作为旁路由使用，没想到经过两天的折腾竟然成功了。</p>
@@ -26,15 +26,15 @@
 参考2：<br>
 <a href="https://zhuanlan.zhihu.com/p/112484256">https://zhuanlan.zhihu.com/p/112484256</a></p>
 <p><strong>20200407</strong></p>
-<figure data-type="image" tabindex="1"><img src="https://yoxyue.github.io/post-images/1587098186678.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://blog.yoxyue.com/post-images/1587098186678.png" alt="" loading="lazy"></figure>
 <p>已经完美运行在3B+上,截图时已经稳定运行了9天有余，比起老电脑，噪音和散热问题有很大的改善。<br>
 参考<a href="https://passwallopenwrt.github.io/website/">https://passwallopenwrt.github.io/website/</a></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[我的2019]]></title>
-        <id>https://yoxyue.github.io/post/my2019/</id>
-        <link href="https://yoxyue.github.io/post/my2019/">
+        <id>https://blog.yoxyue.com/post/my2019/</id>
+        <link href="https://blog.yoxyue.com/post/my2019/">
         </link>
         <updated>2019-12-31T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>转瞬间2020已至，在此回顾一下我的2019。</p>
