@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.yoxyue.com</id>
-    <title>我是Yox</title>
-    <updated>2020-05-16T10:44:50.155Z</updated>
+    <title>四岳Yox</title>
+    <updated>2020-06-20T16:56:22.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.yoxyue.com"/>
     <link rel="self" href="https://blog.yoxyue.com/atom.xml"/>
-    <subtitle>视频创作者 / 极简主义实践者</subtitle>
+    <subtitle>内容创作者 Content Creator
+极简主义者 Minimalism</subtitle>
     <logo>https://blog.yoxyue.com/images/avatar.png</logo>
     <icon>https://blog.yoxyue.com/favicon.ico</icon>
-    <rights>All rights reserved 2020, 我是Yox</rights>
+    <rights>All rights reserved 2020, 四岳Yox</rights>
     <entry>
         <title type="html"><![CDATA[老旧笔记本变身旁路由]]></title>
         <id>https://blog.yoxyue.com/post/lao-jiu-bi-ji-ben-bian-shen-pang-lu-you/</id>
